@@ -9,4 +9,4 @@ to make things happend
 # Dev
 The Dev Of the game is just STARTING to learn phython
 and try's to make a good game that a lot of pepole will like.
-the dev is Aviv The Pro Dev 🕶️
+the dev is Aviv The Pro Dev 🕶
