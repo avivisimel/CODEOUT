@@ -6,4 +6,6 @@ the game starts to bug-out and you need to change its code to work again
 # How To Play
 in every level you get a Command Line were you can enter commands
 to make things happend
-
+# Dev
+The Dev Of the game is just STARTING to learn phython
+and try's to make a good game that a lot of pepole will like.
